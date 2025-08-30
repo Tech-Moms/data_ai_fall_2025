@@ -30,9 +30,9 @@ Watch and follow along with the following tutorial series:
 
 Using the skills you learned, create a simple spreadsheet dashboard ([following along with this video](https://www.youtube.com/watch?v=opJgMj1IUrc&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=7)) which will include:
 
-- [ ] Data cleaning or organization
-- [ ] Use of basic formulas (like `SUM`, `AVERAGE`, `COUNT`)
-- [ ] Simple charts or visualizations
+- [ X] Data cleaning or organization
+- [X ] Use of basic formulas (like `SUM`, `AVERAGE`, `COUNT`)
+- [ X] Simple charts or visualizations
 
 ### Step 4: Submit Your Work
 
@@ -53,9 +53,9 @@ Thanks for taking the time to complete this task — we're excited to see what y
 
 Before submitting, make sure you have:
 
-- [ ] Completed the video tutorial series
-- [ ] Created a functional dashboard with data cleaning
-- [ ] Used basic formulas (`SUM`, `AVERAGE`, `COUNT`)
-- [ ] Included simple charts or visualizations
-- [ ] Written a brief analysis summary
-- [ ] Emailed your work to `data@tech-moms.org`
+- [ x] Completed the video tutorial series
+- [ x] Created a functional dashboard with data cleaning
+- [ x] Used basic formulas (`SUM`, `AVERAGE`, `COUNT`)
+- [ x] Included simple charts or visualizations
+- [ x] Written a brief analysis summary
+- [ x] Emailed your work to `data@tech-moms.org`
