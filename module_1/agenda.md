@@ -8,3 +8,13 @@
 5. 👩🏻‍🏫 [Lecture](https://docs.google.com/presentation/d/1adQsagv1OgYLzNgowLpsEHQqPHiQypYjgNw328Rgz5M/edit?slide=id.g28374011be7_0_143#slide=id.g28374011be7_0_143)
 6. 📆 Assignment Overview
 7. ❓ Q&A & Look Ahead
+
+# In-Class Agenda: Saturday, Aug 30
+
+1. 👋 Welcome! 
+2. Quick review of AI vocab & Prompt Library
+3. Poll: Confidence in Data Analysis? 
+3. Lesson: Data Foundations
+4. Module 2 drop & assignment overview
+4. Break
+5. Guest Speaker: Kelsey Taylor!  
