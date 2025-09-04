@@ -1,5 +1,16 @@
 # Data Analytics & AI Vocabulary List
 
+## Spreadsheets 
+
+| Term | Definition |
+|------|------------|
+| **Cleaning Data** | Process of identifying and correcting errors, inconsistencies, and inaccuracies in datasets. Includes removing duplicates, fixing formatting, and standardizing entries. | 
+| **Formula** | Mathematical expression starting with `=` that performs calculations on cell values, constants, or other formulas. Automatically recalculates when referenced data changes. | 
+| **Pivot Tables** | Interactive tools that summarize and analyze large datasets by grouping and aggregating information. Allow drag-and-drop field arrangement to create different data views. | 
+| **Charts** | Visual representations of data that display patterns, trends, and relationships. Include bar charts, line graphs, pie charts, and scatter plots that update automatically. | 
+| **XLOOKUP** | Lookup function that searches for a value in one array and returns corresponding values from another. More flexible than VLOOKUP, supports multiple criteria and error handling. | 
+| **Conditional Formatting** | Feature that automatically applies formatting (colors, fonts, icons) to cells based on their values or specified conditions. Used for highlighting, color-coding, and visual indicators. | 
+
 ## GitHub Terminology 
 
 | Term | Definition |

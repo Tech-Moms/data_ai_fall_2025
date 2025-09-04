@@ -86,3 +86,5 @@ Before polishing and presenting your data, you will want to validate that the re
 - [ ] Do a little happy dance - you're crushing it! 💃
 
 **Note:** In a future assignment we will practice our data storytelling skills by putting our visualizations and insights into a slide presentation for Share & Tell + Tech-Moms leadership. ✨ 
+
+ALSO! Add your completed assignment in this discussion here: https://github.com/Tech-Moms/data_ai_fall_2025/discussions/16
