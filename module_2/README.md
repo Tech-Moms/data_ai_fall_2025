@@ -118,7 +118,7 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 
 _Est. Time to Complete: (5 hours)_
 
-- [ ] Complete Assignment 1 -> Found in `module_2` -> `assignment_1.md` 
+- [x] Complete Assignment 1 -> Found in `module_2` -> `assignment_1.md` 
 
 * Create an Excel / Google Sheet Dashboard using the Tech-Moms Survey Data
   * Skills needed:
