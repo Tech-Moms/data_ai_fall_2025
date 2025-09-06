@@ -107,10 +107,10 @@ _Est. Time to Complete: (40 mins)_
 
 In this conditional formatting tutorial, you'll learn how to use Excel to automatically highlight data based on specific rules or conditions. We'll cover the basics of applying built-in formatting options, creating custom rules, and using formulas to dynamically format cells, rows, or columns. By the end of this tutorial, you'll be able to make your data visually appealing and easier to analyze with conditional formatting.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
+- [x] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [x] Complete the hands-on activity
 
 ---
 
