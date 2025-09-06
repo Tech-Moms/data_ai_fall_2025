@@ -66,11 +66,11 @@ We also want to know what % of applicants that were "Assigned Cohort" in the [Te
 ### Step Four: Validate Your Data 
 
 Before polishing and presenting your data, you will want to validate that the results are correct so your stakeholders can trust it.
-- [ ] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
+- [x] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
 
 ### Step Five: Create Charts & Build a Dashboard 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
+- [x] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
 
 ### Step Six: Make it Aesthetic 
 
