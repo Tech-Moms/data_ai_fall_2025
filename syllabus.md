@@ -45,8 +45,8 @@ _Modules will be released each Saturday for the following week._
 | Week 0   | 8/17       | **Orientation**                 | In Person Saturday 8/23 @ SeekWell | Complete Orientation materials                             |
 | Week 1   | 8/24        | **Data & AI Foundations**                       | Online (Wed/Sat)            | Complete Module 1 course materials on GitHub                               |
 | Week 2   | 8/31        |  **Advanced Excel/Google Sheets**                               | Online (Wed/Sat)            | Complete Module 2 course materials on GitHub                               |
-| Week 3   | 9/7       |  **Intro to SQL**                     | Online (Wed/Sat)    | Complete Module 3 course materials on GitHub                               |
-| Week 4   | 9/14       |   **Tableau**    |  Online (Wed/Sat)  | Complete Module 4 course materials on GitHub                               |
+| Week 3   | 9/7       |    **Tableau**               | Online (Wed/Sat)    | Complete Module 3 course materials on GitHub                               |
+| Week 4   | 9/14       |  **Intro to SQL**    |  Online (Wed/Sat)  | Complete Module 4 course materials on GitHub                               |
 | Week 5   | 9/21       | **AI Tooling**  | Wed 9/24, in-person @ TM Party - [RSVP](https://www.tech-moms.org/event-details-registration/tech-moms-5-year-anniversary-celebration) / Saturday 9/27 online 10am - 12pm  | Complete Module 5 course materials on GitHub                               |
 | Week 6   | 9/28       | **Looker**  | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                           |
 | Week 7   | 10/5      |  **Choose Your Adventure** | Online (Wed/Sat) | Complete Module 7 course materials on GitHub                                           |
