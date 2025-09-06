@@ -92,10 +92,10 @@ _Est. Time to Complete: (40 mins)_
 
 n this tutorial, you'll learn how to use XLOOKUP, a powerful Excel function for retrieving data from a table or range. You'll see practical examples of finding values based on criteria, handling errors gracefully, and searching data in both rows and columns. By the end of the video, you'll be confident in using XLOOKUP to simplify your data analysis and streamline your workflows in Excel.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/XLOOKUP%20Excel%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/XLOOKUP%20Excel%20Tutorial%20File.xlsx)
+- [x] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [x] Complete the hands-on activity
 
 ---- 
 
