@@ -22,7 +22,7 @@ _Est. Time to Complete: 30 mins_
 
 In this video, learn how to install Tableau and create your first visualization. You'll be guided through the setup process and shown the basics of connecting to data and build a simple chart.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=6xv1KvCMF1Q&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=1) video, follow along in Tableau, and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=6xv1KvCMF1Q&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=1) video, follow along in Tableau, and mark when complete
 
 ---
 
@@ -32,7 +32,7 @@ _Est. Time to Complete: 15 mins_
 
 Learn how to use Calculated Fields and Bins in Tableau to enhance your data analysis. We cover the basics of creating custom calculations and grouping data into bins, helping you uncover deeper insights and refine your visualizations.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=f6qxxtWkaUg&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=2) video, follow along in Tableau, and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=f6qxxtWkaUg&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=2) video, follow along in Tableau, and mark when complete
 
 ---
 
@@ -42,7 +42,7 @@ _Est. Time to Complete: 30 mins_
 
 Learn how to create various visualizations in Tableau, such as bar charts, line graphs, and scatter plots. We'll walk through the process of selecting data, customizing visuals, and adjusting settings to build clear and effective visual representations of your data.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=ebjDwX8sUMk&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=3) video, follow along in Tableau, and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=ebjDwX8sUMk&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=3) video, follow along in Tableau, and mark when complete
 
 ---
 
@@ -52,7 +52,7 @@ _Est. Time to Complete: 30 mins_
 
 Learn how to use Joins in Tableau to combine data from multiple sources. We'll cover the different types of joins, how to set them up, and best practices for merging data to create more comprehensive visualizations.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=A4SVUF-fTwc&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=4) video, follow along in Tableau, and mark when complete
+- [x] Watch [this](https://www.youtube.com/watch?v=A4SVUF-fTwc&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=4) video, follow along in Tableau, and mark when complete
 
 ---
 
@@ -62,6 +62,6 @@ _Est. Time to Complete: 90 mins_
 
 In this video we'll complete a beginner project in Tableau, from start to finish. Starting with connecting to a new data set, we'll then create & customize visualizations, and build a full dashboard, combining all the skills we learned from previous video lessons.
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
-- [ ] Publish your completed workbook to Tableau Public
-- [ ]  Drop a link to your Tableau dashboard in this [discussion](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/18) thread. 
+- [x] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
+- [x] Publish your completed workbook to Tableau Public
+- [x]  Drop a link to your Tableau dashboard in this [discussion]() thread. 

@@ -15,25 +15,25 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 ### Step One: Get to Know Your Data 
 
 - [ ] Review the [Tech-Moms 2023 Annual Report](https://www.tech-moms.org/_files/ugd/0e6ea4_4aa4f371aaaf4b2c81a1e384dfdfec02.pdf?index=true) - payment special attention to the survey results section
-- [ ] Open the [Tech-Moms Survey Data 2024](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?gid=0#gid=0) spreadsheet in Google Sheets
+- [x] Open the [Tech-Moms Survey Data 2024](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?gid=0#gid=0) spreadsheet in Google Sheets
 - [ ] If working in Google Sheet, make a copy & add your name at the end - i.e. "Tech-Moms Survey Data 2024 - Alyson La" 
-- [ ] If working in Excel, download to Excel
-- [ ] Start by evaluating the columns to understand what data you're working with.
-- [ ] Create a new tab,  “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
-- [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
-- [ ] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
+- [x] If working in Excel, download to Excel
+- [x] Start by evaluating the columns to understand what data you're working with.
+- [x] Create a new tab,  “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
+- [x] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
+- [x] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 ### Step Two: Clean the Data 
 
-- [ ] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
-- [ ] Format the analysis table as follows: 
+- [x] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
+- [x] Format the analysis table as follows: 
   *  Highlight column names and fill background color with the color of your choice
   * Add a filter
   * Freeze top row      
-- [ ] Review each column to understand the available options in each
-- [ ] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
-- [ ] Perform any additional data cleaning tasks as needed
-- [ ] Do you notice any data quality issues to make a note of? 
+- [x] Review each column to understand the available options in each
+- [x] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
+- [x] Perform any additional data cleaning tasks as needed
+- [x] Do you notice any data quality issues to make a note of? 
 
 ### Step Three: Start Analyzing (aka Asking Questions of the Data)
 
@@ -41,19 +41,19 @@ In a survey like this, it is often best to systematically analyze each question 
 
 For example: 
 
-- [ ] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
-- [ ] What is the count and ratio of survey respondents that answered via computer vs phone?
-- [ ] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
-- [ ] What is the average number of years respondents had been out of the workforce?
-- [ ] What was the average starting pay at the time of starting Tech-Moms?
-- [ ] What percentage of respondents are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
-- [ ] What percentage of respondent's received a promotion since starting Tech-Moms? 
-- [ ] What percentage of respondent's have taken a new position since starting Tech-Moms?
-- [ ] What is the ratio of respondent's that are working Full-Time vs Part-Time vs Not Currently Employed
-- [ ] How many hours are respondent's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
+- [x] What is the count and ratio of survey respondents that answered via computer vs phone?
+- [x] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
+- [x] What is the average number of years respondents had been out of the workforce?
+- [x] What was the average starting pay at the time of starting Tech-Moms?
+- [x] What percentage of respondents are currently employed?
+- [x] Among those that received a raise, what is the average % increase?
+- [x] What percentage of respondent's received a promotion since starting Tech-Moms? 
+- [x] What percentage of respondent's have taken a new position since starting Tech-Moms?
+- [x] What is the ratio of respondent's that are working Full-Time vs Part-Time vs Not Currently Employed
+- [x] How many hours are respondent's working each week? (binned by hours)
+- [x] What percentage are currently seeking employment?
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participating in the Tech-Moms program. Find the average of each column to know it's rating out of 5 stars. 
 
@@ -66,25 +66,25 @@ We also want to know what % of applicants that were "Assigned Cohort" in the [Te
 ### Step Four: Validate Your Data 
 
 Before polishing and presenting your data, you will want to validate that the results are correct so your stakeholders can trust it.
-- [ ] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
+- [x] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
 
 ### Step Five: Create Charts & Build a Dashboard 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
+- [x] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
 
 ### Step Six: Make it Aesthetic 
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [x] Upload the Tech-Moms logo to the dashboard.
+- [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Step Seven: Ask for Feedback 
 
 - [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
 - [ ] Incorporate the feedback
-- [ ] Add your completed assignment in this discussion here: https://github.com/Tech-Moms/data_ai_fall_2025/discussions/16
-- [ ] Do a little happy dance - you're crushing it! 💃
+- [x] Add your completed assignment in this discussion here: https://github.com/Tech-Moms/data_ai_fall_2025/discussions/16
+- [x] Do a little happy dance - you're crushing it! 💃
 
 **Note:** In a future assignment we will practice our data storytelling skills by putting our visualizations and insights into a slide presentation for Share & Tell + Tech-Moms leadership. ✨ 
  
