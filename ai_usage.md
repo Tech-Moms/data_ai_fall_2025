@@ -1,6 +1,6 @@
 # **Rules for Using AI in Class**  
 
-Establishing clear guidelines around using AI in your classroom can help ensure that students use it responsibly and ethically while still benefiting from its powerful capabilities.  
+Establishing clear guidelines around using AI in the classroom can help ensure that students use it responsibly and ethically while still benefiting from its powerful capabilities.  
 
 ---
 

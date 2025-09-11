@@ -1,7 +1,7 @@
 # Bonus Assignment: Analyze Your Spending for the Past 3 Months  
 
 ## Objective
-This assignment is designed to help you gain insight into your personal spending habits by analyzing your financial data from the past year. You will learn how to collect, categorize, and analyze your data using Excel or Google Sheets, and optionally explore automation or AI tools for categorization.
+This assignment is designed to help you gain insight into your personal spending habits by analyzing your financial data from the past 3 months. You will learn how to collect, categorize, and analyze your data using Excel or Google Sheets, and optionally explore automation or AI tools for categorization.
 
 ---
 
