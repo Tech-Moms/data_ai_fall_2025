@@ -17,8 +17,6 @@ By the end of this module, students will be able to:
 
 Students should have received a email from portfolium. Login to start creating your microcredential. 
 
-
-
 ## Video Lessons 
 
 Create a Portfolio Website 
@@ -31,6 +29,12 @@ https://www.youtube.com/watch?v=csRK636TALQ
 
 ## Resources 
 
-Some examples of different Data Analyst Portfolios. Use this as inspiration to create your own portfolio.
+Some examples of different data analyst portfolios. Use this as inspiration to create your own portfolio.
 
 * [https://tiannaparris.github.io/TiannaTheAnalyst/](https://tiannaparris.github.io/TiannaTheAnalyst/)
+* [https://alextheanalyst.github.io/](https://alextheanalyst.github.io/)
+* https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio
+* Open Source Monthly: https://github.com/alysonla/open-source-monthly 
+* https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md
+* https://kelseyataylor.github.io/kelsey-taylor-portfolio/
+
