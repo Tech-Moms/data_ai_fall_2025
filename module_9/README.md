@@ -33,6 +33,8 @@ Examples of complete Microcredentials:
 
 For each project include written insights from the data analysis and a screenshot + link to the project. 
 
+Share: Drop in your link to your microcredential in the [discussions thread here](https://github.com/Tech-Moms/data_ai_fall_2025/discussions/96). 
+
 ### FAQs: 
 
 1. > My portfolio isn't showing as complete even after uploading all my projects - why is this? 
