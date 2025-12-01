@@ -17,6 +17,9 @@ By the end of this module, students will be able to:
 
 Students should have received a email from portfolium. Login to start creating your microcredential. 
 
+[Microcredentials Step by Step  (1).pdf](https://github.com/user-attachments/files/23844782/Microcredentials.Step.by.Step.1.pdf)
+
+
 ## Video Lessons 
 
 Create a Portfolio Website 
