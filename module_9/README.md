@@ -27,9 +27,11 @@ Hiring Manager Do's and Don'ts
 
 https://www.youtube.com/watch?v=csRK636TALQ
 
+*Search on YouTube: "Data Analyst Portfolios" to find additional videos on the topic.* 
+
 ## Resources 
 
-Some examples of different data analyst portfolios. Use this as inspiration to create your own portfolio.
+Here are some examples of different data analyst portfolios. Use this as inspiration to create your own portfolio! 
 
 * [https://tiannaparris.github.io/TiannaTheAnalyst/](https://tiannaparris.github.io/TiannaTheAnalyst/)
 * [https://alextheanalyst.github.io/](https://alextheanalyst.github.io/)
