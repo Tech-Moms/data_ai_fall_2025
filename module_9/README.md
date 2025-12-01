@@ -15,11 +15,22 @@ By the end of this module, students will be able to:
 
 ## Weber State Microcredentials
 
+Students should have received a email from portfolium. Login to start creating your microcredential. 
+
+
+
 ## Video Lessons 
 
 Create a Portfolio Website 
 
 https://www.youtube.com/watch?v=ocdwh0KYeUs 
 
+Hiring Manager Do's and Don'ts
+
+https://www.youtube.com/watch?v=csRK636TALQ
 
 ## Resources 
+
+Some examples of different Data Analyst Portfolios. Use this as inspiration to create your own portfolio.
+
+* 
