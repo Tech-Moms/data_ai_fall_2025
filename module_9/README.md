@@ -33,6 +33,16 @@ Examples of complete Microcredentials:
 
 For each project include written insights from the data analysis and a screenshot + link to the project. 
 
+### FAQs: 
+
+1. > My portfolio isn't showing as complete even after uploading all my projects - why is this? 
+
+This is normal, it should show as complete within a day. 
+
+2. > Is there a certain timeline to complete the microcredential? 
+
+Not really, but Tech-Moms does depend on students completing the microcredential in order to qualify for their grants. 
+
 ### 2. Optional: Create a Website or GitHub Portfolio 
 
 In addition to the Weber State University Microcredential, you can create your own portfolio website to showcase your projects. 
