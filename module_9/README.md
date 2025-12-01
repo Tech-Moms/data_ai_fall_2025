@@ -17,4 +17,9 @@ By the end of this module, students will be able to:
 
 ## Video Lessons 
 
+Create a Portfolio Website 
+
+https://www.youtube.com/watch?v=ocdwh0KYeUs 
+
+
 ## Resources 
