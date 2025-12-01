@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=csRK636TALQ
 
 Some examples of different Data Analyst Portfolios. Use this as inspiration to create your own portfolio.
 
-* 
+* [https://tiannaparris.github.io/TiannaTheAnalyst/](https://tiannaparris.github.io/TiannaTheAnalyst/)
