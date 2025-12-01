@@ -2,30 +2,21 @@
 
 ## Overview
 
-This module teaches students how to build a professional, job-ready data analyst portfolio that showcases all the projects completed throughout the program, including work from Excel, SQL, Looker Studio, Tableau, Domo, and their capstone project. Students will learn how to select and refine their strongest work, write compelling case studies, structure their projects in GitHub, and fork & edit an existing portfolio on GitHub or a custom HTML/CSS/JavaScript site generated with AI. The module also prepares students to meet the Weber State Tech-Moms Data Analytics Microcredential requirements by ensuring their portfolios include multiple polished projects with written insights and evidence of Excel, SQL, and BI competencies. By the end of this module, each student will have a functional, public-facing portfolio that can added to LinkedIn, their resume, and shared with future employers. 
+This module guides students through building a professional, job-ready data analyst portfolio that showcases all the projects completed throughout the program, including work from Excel, SQL, Looker Studio, Tableau, Domo, and their capstone project. The module also prepares students to meet the Weber State Tech-Moms Data Analytics Microcredential requirements by ensuring their portfolios include multiple polished projects with written insights and evidence of Excel, SQL, and BI competencies. By the end of this module, each student will have a functional, public-facing portfolio that can added to LinkedIn, their resume, and shared with future employers. 
 
 ## Learning Objectives
 
 By the end of this module, students will:
 
 * Understand the purpose of a data analyst portfolio and how hiring managers review them.
-* Create a case study demonstrating problem-solving, SQL/Excel/BI skills, and storytelling.
 * Publish your portfolio using Portfolium and/or GitHub/GitHub Pages. 
 * Update your LinkedIn to add your Weber State University Microcredential 
 * Update your LinkedIn to add your capstone project 
 * Update your resume to include a link to your portfolio and/or GitHub
 
-## Video Lessons 
+## Why a Data Portfolio Is Important
 
-Hiring Manager Do's and Don'ts
-
-https://www.youtube.com/watch?v=csRK636TALQ
-
-Create an HTML/CSS/GitHub Pages Portfolio Website 
-
-https://www.youtube.com/watch?v=ocdwh0KYeUs 
-
-*Search on YouTube: "Data Analyst Portfolios" to find additional videos on the topic.* 
+A data portfolio is the most effective way to demonstrate your skills to potential employers. While résumés list tools and responsibilities, a portfolio shows real evidence of analytical thinking, problem-solving, and your ability to work with messy, real-world data. Hiring managers consistently rely on portfolios to assess whether a candidate can interpret data, communicate insights clearly, and build meaningful visualizations. A strong portfolio highlights your technical competence across tools like Excel, SQL, Looker Studio, Tableau, and Domo, while also illustrating your ability to tell a cohesive story with data. Most importantly, it helps you stand out in a competitive job market by providing tangible proof of your work, your process, and your growth as an analyst.
 
 ## Assignment 
 
@@ -40,7 +31,25 @@ Examples of complete Microcredentials:
 * https://portfolium.com/rachelmoulton2/badge/tech-moms-20-data-analytics 
 * https://portfolium.com/werz/badge/tech-moms-20-data-analytics 
 
+For each project include written insights from the data analysis and a screenshot + link to the project. 
+
 ### 2. Optional: Create a Website or GitHub Portfolio 
+
+In addition to the Weber State University Microcredential, you can create your own portfolio website to showcase your projects. 
+
+#### Create an HTML/CSS/GitHub Pages Portfolio Website 
+
+- [ ] Watch [this video](https://www.youtube.com/watch?v=ocdwh0KYeUs) and mark when complete 
+
+Alternatively, you can pick your best project and create a GitHub repo to share it. In the video below a former Data hiring manager explains how to do this. 
+
+#### Hiring Manager Do's and Don'ts
+
+- [ ] Watch [this video](https://www.youtube.com/watch?v=csRK636TALQ) and mark when complete 
+
+*Search on YouTube: "Data Analyst Portfolios" to find additional videos on the topic.* 
+
+**Resources**
 
 Here are some examples of different data analyst portfolios. Use this as inspiration to create your own website or Github portfolio that you can continue to add to! 
 
@@ -50,6 +59,7 @@ Here are some examples of different data analyst portfolios. Use this as inspira
 * Open Source Monthly: https://github.com/alysonla/open-source-monthly 
 * https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md
 * https://kelseyataylor.github.io/kelsey-taylor-portfolio/
+* claude.ai - use Claude to code a portfolio website using the prompt: "Make me a simple data portfolio website I can add my own projects to"
 
 ### 3. Update your LinkedIn to link your Weber State University Microcredential 
 
