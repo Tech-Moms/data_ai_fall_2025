@@ -73,9 +73,17 @@ Here are some examples of different data analyst portfolios. Use this as inspira
 
 ### 3. Update your LinkedIn to link your Weber State University Microcredential 
 
+Update your LinkedIn profile to share you completed Weber State Microcredential. 
+
+See example on Worthy Lee's LinkedIn profile: https://www.linkedin.com/in/worthy-lee/
+
 <img width="785" height="214" alt="Screenshot 2025-11-30 at 9 37 25 PM" src="https://github.com/user-attachments/assets/db991d78-815b-426e-84bc-8c0bd9c3ad0c" />
 
 ### 4. Update your LinkedIn to showcase your capstone project
+
+Update your LinkedIn profile to showcase your capstone project, including links. S
+
+See example on Worthy Lee's LinkedIn profile: https://www.linkedin.com/in/worthy-lee/
 
 <img width="774" height="282" alt="Screenshot 2025-11-30 at 9 38 00 PM" src="https://github.com/user-attachments/assets/cc9032fb-0ac3-46e8-88b5-b437c7d1240f" />
 
